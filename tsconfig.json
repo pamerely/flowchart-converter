@@ -16,5 +16,5 @@
     "noEmit": true,
     "jsx": "react-jsx"
   },
-  "include": ["flowchart-converter/src/components/src"]
+  "include": ["src"]
 } 
